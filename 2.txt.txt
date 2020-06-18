@@ -1,2 +1,2 @@
-this is 2.txt file
+thi is 2.txt file
 second line adding
